@@ -1,0 +1,29 @@
+@import url('reset.css');
+
+.text {
+	color: red;
+	text-decoration-line: underline;
+}
+.sab-title,
+.title {
+	color: chartreuse;
+}
+.textoll{
+	color: blue;
+}
+.tab{
+	color: chocolate;
+}
+.rel{
+	color: gold;
+	text-decoration-line: underline;
+}
+div.block2{
+color: aquamarine;
+}
+.tab{
+	color: violet;
+}
+.link,.link1,.link2,.link3{
+	color: maroon;
+}
